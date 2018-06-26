@@ -1,5 +1,5 @@
 {
-  "name": "flatten-array",
+  "name": "flatten-arrayjs",
   "version": "0.1.0",
   "description": "Flatten Deeply Nested Arrays",
   "main": "index.js",
