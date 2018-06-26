@@ -5,13 +5,13 @@ A small library that flatten deeply nested arrays
 
 ## Installation
 
-  `npm install @muhammadhasham/flatten-arrayjs`
+  `npm install flatten-arrayjs`
 
 ## Usage
 
     let arr = [1,[2,3,[4,5,[6]]]];
     
-    var numFormatter = require('@muhammadhasham/flatten-arrayjs');
+    var numFormatter = require('flatten-arrayjs');
 
     var formattedNum = numFormatter(arr);
   
