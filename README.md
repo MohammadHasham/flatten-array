@@ -11,9 +11,9 @@ A small library that flatten deeply nested arrays
 
     let arr = [1,[2,3,[4,5,[6]]]];
     
-    var numFormatter = require('flatten-arrayjs');
+    var flat = require('flatten-arrayjs');
 
-    var formattedNum = numFormatter(arr);
+    var formattedNum = flat(arr);
   
   
   Output should be `[1,2,3,4,5,6]`
